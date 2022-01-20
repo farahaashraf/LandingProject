@@ -1,16 +1,14 @@
 # LandingProject
 
-##The Languages Used In This Project:
+## The Languages Used In This Project
+* css
+* javascript
+* html
 
-*css
-*javascript
-*html
-
-##The Functionalities:
-
+## The Functionalities
 *The Navigation
 *The scrolling effect
 
-##Sources Used:
-*[W3 scholl](https://www.w3schools.com/)
-*[MDN WEB doc](https://developer.mozilla.org/en-US/)
+## Sources Used:
+* [W3 scholl](https://www.w3schools.com/)
+* [MDN WEB doc](https://developer.mozilla.org/en-US/)
