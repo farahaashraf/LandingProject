@@ -6,8 +6,8 @@
 * html
 
 ## The Functionalities
-*The Navigation
-*The scrolling effect
+* The Navigation
+* The scrolling effect
 
 ## Sources Used:
 * [W3 scholl](https://www.w3schools.com/)
