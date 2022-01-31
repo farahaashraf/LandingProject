@@ -1,5 +1,6 @@
 # Landing Page Project
-* This is my first project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
+
+* This is my first project, and I hope to be successful in using the tools that I learned to implement what is required from me in this project.
 
 ## The Languages Used In This Project:
 
@@ -16,12 +17,10 @@
 * All features are usable across modern desktop, tablet, and phone browsers.
 
 ## Project Files:
-* css
-styles.css  
+* css / styles.css  
 * index.html
-* js
-app.js
-*README.md
+* js / app.js
+* README.md
 
 ## Sources Credits:
 _ [W3 scholl](https://www.w3schools.com/)
