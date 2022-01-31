@@ -1,11 +1,11 @@
 #Landing Page Project
-\*This is my first project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
+*This is my first project, and I hope to be successful in using the tools that I learned to implement what is required of me in this project.
 
 ##The Languages Used In This Project:
 
 *css
 *javascript
-\*html
+*html
 
 ##The Functionalities:
 
@@ -13,7 +13,7 @@
 *linking each section with its corresponding nav
 *Activating sections and nav during scrolling
 *Smoothing the scroll after clicking
-\*All features are usable across modern desktop, tablet, and phone browsers.
+*All features are usable across modern desktop, tablet, and phone browsers.
 
 ##Project Files:
 *css
