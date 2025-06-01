@@ -1,4 +1,4 @@
-# Landing Page Project By Farah Ashraf 
+# Landing Page Project 
 
 * This is my first project, and I hope to be successful in using the tools that I learned to implement what is required from me in this project.
 
